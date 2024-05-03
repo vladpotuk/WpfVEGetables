@@ -7,7 +7,7 @@ namespace VegetablesAndFruitsApp
 {
     public partial class MainWindow : Window
     {
-        private string connectionString = "....";
+        private string connectionString = "Data Source=\"10.0.0.40, 8843\";User ID=marcint;Password=1604;Connect Timeout=30;Encrypt=False;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False";
 
         public MainWindow()
         {
